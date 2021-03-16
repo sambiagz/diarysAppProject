@@ -1,0 +1,11 @@
+export const SET_LOGIN_STATE = 'SET_LOGIN_STATE';
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_USER = 'SET_USER';
+export const SIGIN_START = 'SIGNIN_START';
+export const SIGIN_SUCCESS = 'SIGNIN_SUCCESS';
+export const SIGNIN_FAILURE = 'SINGIN_FAILURE';
+export const LOG_IN = 'LOG_IN';
+export const SET_PROJECT = 'SET_PROJECT';
+export const SET_DIARY = 'SET_DIARY';
+export const SET_SELECTED_PROJECT = 'SET_SELECTED_PROJECT';
+export const CLEAR_REDUX = 'CLEAR_REDUX';
